@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">BucharestCityTour</string>
+    <string name="item_name">Item Name</string>
+    <string name="gps_off">GPS Off</string>
+    <string name="description">Description</string>
+    <string name="available_directions">Available Directions</string>
+    <string name="welcome_to_b">Welcome to Bucharest!</string>
+    <string name="welcome">Welcome</string>
+    <string name="relax">Relax</string>
+    <string name="learn">Learn</string>
+    <string name="shop">Shop</string>
+    <string name="fun">Fun</string>
+    <string name="welcome_intro">Bucharest is the bustling capital city of Romania. Home to over two million people, and maybe even more ways to spend your time, you are guaranteed to enjoy your stay here.
+        We\'ve compiled a list of locations to visit, so you can get the most out of your time here. Enjoy your stay! </string>
+    <string name="loc_warning"> Oops! Looks like your location service is currently disabled. Consider enabling it so we can provide you with a better experience. </string>
+    <string name="loc_button"> Go to Location Settings</string>
+
+    <string name="r1t">Herastrau Park</string>
+    <string name="r1d">Stunning Park close to the Village Museum.</string>
+    <string name="r2t">Cismigiu Park</string>
+    <string name="r2d">Situated in the city centre, great for taking a break from the crowded atmosphere.</string>
+    <string name="r3t">Carol Park</string>
+    <string name="r3d">A communist era park built on a hill, providing beautiful vistas.</string>
+    <string name="r4t">Titan Park</string>
+    <string name="r4d">A natural oasis at the heart of the biggest residential district in the city.</string>
+    <string name="r5t">Tineretului Park</string>
+    <string name="r5d">A child-oriented park, featuring many attractions.</string>
+
+    <string name="l1t">Village Museum</string>
+    <string name="l1d">An open air museum with traditional romanian village houses.</string>
+    <string name="l2t">Museum of Natural History</string>
+    <string name="l2d">A large biology museum, with lots of stuffed animals and skeletons from
+        different eras. Great for children.</string>
+    <string name="l3t"> National Art Museum</string>
+    <string name="l3d">An art museum focued on religious paintings and important historical events.  </string>
+    <string name="l4t">Palace of Parliament</string>
+    <string name="l4d"> Huge government building built in times of poverty for the former dictator Ceausescu .</string>
+    <string name="l5t">Romanian Athenauem</string>
+    <string name="l5d">Famous concert hall, featuring impressive fresques.</string>
+
+    <string name="s1t">Old Town</string>
+    <string name="s1d">The old city centre provides numerous shops, restaurants and cafes.</string>
+    <string name="s2t">Afi Palace</string>
+    <string name="s2d">Huge shopping mall with an amazing cinema.</string>
+    <string name="s3t">Park Lake</string>
+    <string name="s3d">Nature-inspired mall with a great store variety.</string>
+    <string name="s4t">Unirii Mall</string>
+    <string name="s4d">Newly renovated mall, very close to the city centre</string>
+    <string name="s5t">Mega Mall</string>
+    <string name="s5d">Large new mall with exclusive brands.</string>
+
+    <string name="f1t">Le Gaga Club</string>
+    <string name="f1d"> Newly opened exclusive nightclub. </string>
+    <string name="f2t">Fratelli Club</string>
+    <string name="f2d">Charming, non-exclusive nightclub. </string>
+    <string name="f3t">Beat of Angels</string>
+    <string name="f3d">Great nightclub for live music.</string>
+    <string name="f4t">Club A</string>
+    <string name="f4d">Cozy nightclub, situated in the Old Town, rather cheap.</string>
+    <string name="f5t">Princess Club</string>
+    <string name="f5d">Youth oriented nightclub, located in student district.</string>
+
+
+</resources>
